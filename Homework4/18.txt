@@ -1,0 +1,8 @@
+vaqti minevisim:
+a =! x;
+ya'ni:
+a = (!x);
+in ya'ni adade x ra not kon (1's complement begir) va hasel ra dar a beriz.
+agar in ebarat ra be onvane sharte if benevisim, 1's complemente x be onvane sharte if darnazar gerefte mishavad.
+
+(0 mo'adele false va gheyre 0 mo'adele true ast.)

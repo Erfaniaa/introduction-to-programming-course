@@ -1,0 +1,8 @@
+vaqti minevisim (a = x) compiler meqdare x ra dar a mirizad va meqdare x ra return mikonad.
+ya'ni
+if (a = 10) cout << "salam";
+daqiqan mo'adele codee zir ast:
+a = 10;
+if (10) cout << "salam";
+
+(0 mo'adele false va gheyre 0 mo'adele true ast.) 

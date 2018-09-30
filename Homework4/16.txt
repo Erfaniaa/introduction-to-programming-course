@@ -1,0 +1,5 @@
+a++ va a-- az nazare kari ke anjam midahand hich farqi ba a+=1 va a-=1 nadarand.
+ya'ni agar meqdari ke return mikonand ra darnazar nagirim, baham farqi nadarand.
+faqat:
+a+=1 va a-=1 meqdare jadide a ra pas az assignment barmigardanand (daqiqan mesle ++a va --a).
+amma a++ va a-- medare a ra qabl az assignment barmigardanand.
